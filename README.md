@@ -12,7 +12,10 @@
   <img align="center" alt="CSS 3" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> 
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Django" title="Django" height="30" width="30" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Spring" title="Spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="Heroku" title="Heroku" height="30" width="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/09/heroku.png">
+  <img align="center" alt="Netlify" title="Netlify" height="30" width="40" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
 </div>
   
  ##

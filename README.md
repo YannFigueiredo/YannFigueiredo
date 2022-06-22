@@ -15,6 +15,7 @@
   <img align="center" alt="HTML 5" title="HTML 5" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS 3" title="CSS 3" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> 
   <img align="center" alt="JavaScript" title="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="TypeScript" title="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Django" title="Django" height="45" width="45" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png">
   <img align="center" alt="React" title="React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Spring" title="Spring" height="45" width="45" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">

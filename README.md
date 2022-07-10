@@ -28,6 +28,8 @@
  
  https://portfolio-yann.netlify.app/
  
+ <hr/>
+ 
  ### Contato
  
 <div> 

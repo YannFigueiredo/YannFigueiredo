@@ -30,7 +30,7 @@
  
 ## :briefcase: Portfólio
  
-https://portfolio-yann.netlify.app/
+https://yannfigueiredo.github.io/
  
 <hr/>
  

@@ -10,7 +10,7 @@
  
 ## :superhero_man: Skills
  
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="Java" title="Java" height="60" width="60"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"/>
   <img align="center" alt="Python" title="Python" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
   <img align="center" alt="HTML 5" title="HTML 5" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
@@ -19,9 +19,9 @@
   <img align="center" alt="TypeScript" title="TypeScript" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
   <img align="center" alt="Django" title="Django" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg">
   <img align="center" alt="React" title="React" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
+  <img align="center" alt="Jest" title="Jest" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jest.svg">
+  <img align="center" alt="React Testing Library" title="React Testing Library" height="60" width="60" src="https://yannfigueiredo.github.io/img/icons/react-testing-library.png">
   <img align="center" alt="Spring" title="Spring Boot" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg">
-  <img align="center" alt="Heroku" title="Heroku" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Heroku.svg">
-  <img align="center" alt="Netlify" title="Netlify" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Netlify-Dark.svg">
   <img align="center" alt="MySQL" title="MySQL" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg">
 </div>

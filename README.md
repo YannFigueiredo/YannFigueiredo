@@ -19,10 +19,8 @@
   <img align="center" alt="Styled-Components" title="Styled-Components" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
-  <img align="center" alt="Django" title="Django" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg">
   <img align="center" alt="React" title="React" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
   <img align="center" alt="Jest" title="Jest" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jest.svg">
-  <img align="center" alt="React Testing Library" title="React Testing Library" height="60" width="60" src="https://yannfigueiredo.github.io/img/icons/react-testing-library.png">
   <img align="center" alt="Spring" title="Spring Boot" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg">
   <img align="center" alt="MySQL" title="MySQL" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg">

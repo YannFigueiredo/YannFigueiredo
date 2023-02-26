@@ -10,7 +10,7 @@
  
 ## :superhero_man: Skills
  
-<div>
+<div style={{display: flex; gap: 5px}}>
   <img align="center" alt="Java" title="Java" height="60" width="60"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"/>
   <img align="center" alt="Python" title="Python" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
   <img align="center" alt="HTML 5" title="HTML 5" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">

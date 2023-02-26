@@ -15,6 +15,8 @@
   <img align="center" alt="Python" title="Python" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
   <img align="center" alt="HTML 5" title="HTML 5" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
   <img align="center" alt="CSS 3" title="CSS 3" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg"> 
+  <img align="center" alt="SASS" title="SASS" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg">
+  <img align="center" alt="Styled-Components" title="Styled-Components" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
   <img align="center" alt="Django" title="Django" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg">

@@ -1,11 +1,13 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="280" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
 # Yann Fabricio Cardoso de Figueiredo 
 
-<div>
-  <a href="https://github.com/YannFigueiredo/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannFigueiredo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannFigueiredo&layout=compact&langs_count=6&theme=dracula&hide=Perl,jupyter%20notebook"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YannFigueiredo&theme=dracula"/>
-</div>
+Desenvolvedor Web de Belém/PA, formado em Ciência da Computação pela Universidade Federal do Pará. Tenho foco no desenvolvimento Front-End, mas sempre venho me aprimorando também no Back-End, sendo que minhas principais stacks são: React, JavaScript, Spring Boot e Java. Quando não estou codando, adoro jogar video-game, assistir séries e sofrer com os jogos do meu clube do coração no futebol. 
+
+## :octocat: GitHub Stats
+
+  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YannFigueiredo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannFigueiredo&layout=compact&langs_height=25&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly&hide=Perl,jupyter%20notebook)
 
 <hr/>
  
@@ -31,6 +33,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" title="SASS" /> 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" title="Jest" /> 
   <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" title="JUnit" /> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" title="Tailwind" />
 </div>
   
  ### :zap: Banco de Dados
@@ -68,11 +71,11 @@
  
 ## :briefcase: Portfólio
  
-https://yannfigueiredo.github.io/
+Acesse meu portfólio: [Portfólio](https://yannfigueiredo.github.io/)
  
 <hr/>
  
-## :telephone_receiver: Contato
+## :telephone_receiver: Conecte-se comigo
  
 <div> 
   <a href = "mailto:yann.fabricio@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>

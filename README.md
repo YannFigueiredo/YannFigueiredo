@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="280" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" height="280" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 # Yann Fabricio Cardoso de Figueiredo 
 
@@ -6,8 +6,8 @@ Desenvolvedor Web de Belém/PA, formado em Ciência da Computação pela Univers
 
 ## :octocat: GitHub Stats
 
-  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YannFigueiredo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannFigueiredo&layout=compact&langs_height=25&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly&hide=Perl,jupyter%20notebook)
+[![YannFigueiredo GitHub Stats](https://github-readme-stats.vercel.app/api?username=YannFigueiredo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannFigueiredo&layout=compact&langs_height=25&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly&hide=Perl,jupyter%20notebook)
 
 <hr/>
  

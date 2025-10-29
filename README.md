@@ -2,7 +2,7 @@
 
 # Yann Fabricio Cardoso de Figueiredo 
 
-Desenvolvedor Web de Belém/PA, formado em Ciência da Computação pela Universidade Federal do Pará. Tenho foco no desenvolvimento Front-End, mas sempre venho me aprimorando também no Back-End, sendo que minhas principais stacks são: React, TypeScript, Next e Nest. Quando não estou codando, adoro jogar video-game, assistir séries e sofrer com os jogos do meu clube do coração no futebol. 
+Desenvolvedor Web de Belém/PA, formado em Ciência da Computação pela Universidade Federal do Pará. Tenho foco no desenvolvimento Front-End, mas sempre venho me aprimorando também no Back-End, sendo que minhas principais stacks são React, TypeScript e Next. Quando não estou codando, adoro jogar video-game, assistir séries e sofrer com os jogos do meu clube do coração no futebol. 
 
 ## :octocat: GitHub Stats
 
@@ -26,7 +26,7 @@ Desenvolvedor Web de Belém/PA, formado em Ciência da Computação pela Univers
 ### :zap: Frameworks e Bibliotecas
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" /> 
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs" title="NestJs" />
+  <!--<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs" title="NestJs" />-->
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next" title="Next" />
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" title="Node"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" title="Styled Components" /> 
@@ -37,7 +37,6 @@ Desenvolvedor Web de Belém/PA, formado em Ciência da Computação pela Univers
   <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" title="Ant Design" />
   <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" title="Playwright" />
   <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" title="Storybook" />
-  
 </div>
   
  ### :zap: Banco de Dados
